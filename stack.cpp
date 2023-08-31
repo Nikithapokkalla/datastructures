@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #define MAX_SIZE 10
-struct Stack {
+1struct Stack {
     int items[MAX_SIZE];
     int top;
 };
